@@ -1,4 +1,3 @@
-Absolutely, here's an updated section in the README file:
 
 ---
 
